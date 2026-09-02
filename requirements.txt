@@ -1,5 +1,5 @@
 # Image/GIF generation
-matplotlib
-numpy
-scipy
-sympy
+matplotlib==3.10.8
+numpy==2.4
+scipy==1.17.1
+sympy==1.14.0
