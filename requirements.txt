@@ -1,0 +1,5 @@
+# Image/GIF generation
+matplotlib
+numpy
+scipy
+sympy
