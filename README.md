@@ -28,6 +28,13 @@ Further details of this are in my essay *Fatou and Julia Sets of Holomorphic Fun
 
 ## Installation
 
+Clone the repository and install the required dependencies:
+```bash
+git clone https://github.com/stacey-kagwanja/Visualisation-of-Fatou-and-Julia-Sets.git
+cd Visualisation-of-Fatou-and-Julia-Sets
+pip install -r requirements.txt
+```
+
 ---
 
 ## Usage
