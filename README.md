@@ -38,9 +38,15 @@ pip install -r requirements.txt
 
 ## Usage
 
+Download the Jupyter notebook (`...`), then open and run the notebook.
+
+This covers ...
+
 ---
 
 ## Project Context
+
+...
 
 ---
 
