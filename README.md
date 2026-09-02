@@ -22,7 +22,6 @@ Further details of this are in my essay *Fatou and Julia Sets of Holomorphic Fun
 | Component | Technology |
 |-----------|------------|
 | Language | Python |
-| Image/GIF generation | SymPy, NumPy, Matplotlib, SciPy |
 
 ---
 
