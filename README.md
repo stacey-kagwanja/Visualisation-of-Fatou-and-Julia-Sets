@@ -1,5 +1,6 @@
 # Visualisation-of-Fatou-and-Julia-Sets
 *Work in progress*
+
 This project explores the computer-graphical generation of Julia sets corresponding to various functions. 
 
 ---
