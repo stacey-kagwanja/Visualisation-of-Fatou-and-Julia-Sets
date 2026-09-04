@@ -52,7 +52,7 @@ Running this code generates an example image of the Fatou and Julia sets, of the
 Download the Jupyter notebook (`Fatou and Julia.py`), then open and run the notebook.
 
 ```
-Fatou and Julia.py
+Fatou and Julia Images.ipynb
 ```
 
 Running this code generates example images of the Fatou and Julia sets of some rational functions. It also includes code for creating colour maps to use for each basin.
