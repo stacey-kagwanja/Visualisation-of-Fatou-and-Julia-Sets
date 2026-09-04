@@ -38,7 +38,11 @@ pip install -r requirements.txt
 
 ## Usage
 
-Download the Jupyter notebook (`...`), then open and run the notebook.
+Download the Jupyter notebook (`Fatou and Julia.py`), then open and run the notebook.
+
+```
+Fatou and Julia.py
+```
 
 This covers ...
 
