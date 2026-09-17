@@ -73,4 +73,5 @@ The code from this project was used to generate images and GIFs for my universit
 ## Acknowledgements
 
 - The code was adapted from the below source to work for any holomorphic function on the Riemann sphere, to illustrate the basins of the attracting periodic orbits by colouring points in each basin based on the number of iterations taken for each point to arrive within some tolerance of the corresponding orbit, and to reduce the runtime for GIF generation by producing several frames at a time:
+  
   B. L. Badger. Julia sets — form and formula: https://blbadger.github.io/julia-sets.html
