@@ -1,5 +1,4 @@
 # Visualisation-of-Fatou-and-Julia-Sets
-*Work in progress*
 
 This project explores the computer-graphical generation of Julia sets corresponding to various functions. 
 
@@ -11,7 +10,7 @@ After continuously iterating a set of points through a rational function, subset
 
 The points in each basin can be coloured according to how many iterations it takes for points to approach sufficiently near whichever point they converge to.
 
-Further details of this are in my essay *Fatou and Julia Sets of Holomorphic Functions on the Riemann Sphere*
+Further details of this are in my essay *Fatou and Julia Sets of Holomorphic Functions on the Riemann Sphere*.
 
 ---
 
@@ -49,7 +48,7 @@ Fatou and Julia.py
 Running this code generates an example image of the Fatou and Julia sets, of the function z^2 + 1.
 
 
-Download the Jupyter notebook (`Fatou and Julia.py`), then open and run the notebook.
+Download the Jupyter notebook (`Fatou and Julia Images.ipynb`), then open and run the notebook.
 
 ```
 Fatou and Julia Images.ipynb
@@ -61,7 +60,7 @@ Running this code generates example images of the Fatou and Julia sets of some r
 
 ## Project Context
 
-...
+The code from this project was used to generate images and GIFs for my university essay *Fatou and Julia Sets of Holomorphic Functions on the Riemann Sphere* and the corresponding presentation.
 
 ---
 
@@ -73,4 +72,5 @@ Running this code generates example images of the Fatou and Julia sets of some r
 
 ## Acknowledgements
 
-- ...
+- The code was adapted from the below source to work for any holomorphic function on the Riemann sphere, to illustrate the basins of the attracting periodic orbits by colouring points in each basin based on the number of iterations taken for each point to arrive within some tolerance of the corresponding orbit, and to reduce the runtime for GIF generation by producing several frames at a time:
+  B. L. Badger. Julia sets — form and formula: https://blbadger.github.io/julia-sets.html
