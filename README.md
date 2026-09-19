@@ -14,7 +14,7 @@ Further details of this are in my essay *Fatou and Julia Sets of Holomorphic Fun
 
 <img src="Images%20for%20README/Fatou%20and%20Julia%20sets%20for%20(2z3%20+%201)%25(3z2)%20image.png" width="600"/>
 
-<img src="Images%20for%20README/Fatou%20and%20Julia%20sets%20for%20(2z3%20+%201)%25(3z2)%20zoom%20in%20GIFe.png" width="600"/>
+<img src="Images%20for%20README/Fatou%20and%20Julia%20sets%20for%20(2z3%20+%201)%25(3z2)%20zoom%20in%20GIF.gif" width="600"/>
 
 ---
 
